@@ -4,7 +4,12 @@ import java.util.Scanner;
 public class StudentGrades {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        System.out.println("                   TASK TWO                       ");
+         System.out.println(" ");
+        System.out.println("              Student Grade System                  ");
+        System.out.println(" ");
+         System.out.println(" ");
+          System.out.println(" ");
         System.out.print("Enter the number of subjects: ");
         int numSubjects = scanner.nextInt();
         
